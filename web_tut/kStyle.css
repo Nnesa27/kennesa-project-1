@@ -1,0 +1,18 @@
+body{
+    margin: left;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: yellow;
+   /* background-image: url(./images/Untitledbackground.png);*/
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+
+#header{
+    text-align: center;
+
+}
+
+#content{
+    color: rgb(74, 99, 74);
+}
